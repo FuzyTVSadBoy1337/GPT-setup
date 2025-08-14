@@ -5,7 +5,7 @@ if [ -e "/data/data/com.termux/files/home/storage" ]; then
 fi
 termux-setup-storage
 yes | pkg update
-. <(curl https://raw.githubusercontent.com/Wraith1vs11/Rejoin/refs/heads/main/termux-change-repo.sh)
+. <(curl https://raw.githubusercontent.com/FuzyTVSadBoy1337/GPT-setup/refs/heads/main/termux-change-repo.sh)
 yes | pkg upgrade
 yes | pkg i python
 yes | pkg i python-pip
