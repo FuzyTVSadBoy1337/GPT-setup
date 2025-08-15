@@ -12,4 +12,4 @@ yes | pkg i python-pip
 pip install requests rich prettytable pytz
 export CFLAGS="-Wno-error=implicit-function-declaration"
 pip install psutil
-curl -Ls "https://raw.githubusercontent.com/Wraith1vs11/Rejoin/refs/heads/main/OldShouko.py" -o /sdcard/Download/OldShouko.py
+curl -Ls "https://cdn.jsdelivr.net/gh/FuzyTVSadBoy1337/GPT-setup@main/GPT-Tool.py" -o /sdcard/Download/GPT_Tool.py
